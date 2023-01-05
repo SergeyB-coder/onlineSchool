@@ -1,0 +1,23 @@
+.header {
+    background-color: #354259;
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+    box-shadow: 0px 2px 2px black;
+}
+
+.header-item {
+    color: #ECE5C7;
+    cursor: pointer;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.test {
+
+}
+
+.test:hover {
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.container-topics {
+    margin-top: 10vh;
+    margin-left: 10vw;
+    width: 60vw;
+}
+
+.topic-item {
+    background-color: #ad91b5;
+    margin: 3vh;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.btn-back {
+    color: white;
+    height: 4vh;
+    width: 5vw;
+    background-color: #ef9a49;
+    
+}
+
+.btn-back:hover {
+    background-color: #a29f9f;
+}
+

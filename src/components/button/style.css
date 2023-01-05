@@ -1,0 +1,33 @@
+.button-1 {
+    background-color: #004b92;
+    /* height: 2vh;
+    width: 4vw; */
+    color: white;
+    text-align: center;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.button-2 {
+    margin-top: 2vh;
+    color: #004b92;
+    text-align: center;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.button-2:hover {
+    text-decoration: none;
+}
+
+.btn-create {
+    background-color: #62728a;
+    /* height: 2vh;
+    width: 4vw; */
+    color: white;
+    width: 10vw;
+}
+
+.btn-create:hover {
+    background-color: #354259;
+}

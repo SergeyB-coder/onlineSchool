@@ -1,0 +1,23 @@
+.container-subjects {
+    margin-top: 20vh;
+    margin-left: 20vw;
+}
+
+.subject-item {
+    background-color: #e9e4db;
+    margin: 3vh;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.subject-item-del {
+    text-align: center;
+    /* background-color: #e9e4db; */
+    margin: 3vh;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.subject-item-del:hover {
+    background-color: #7f7c77;
+}

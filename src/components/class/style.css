@@ -1,0 +1,12 @@
+.container-classes {
+    margin-top: 10vh;
+    margin-left: 10vw;
+    width: 60vw;
+}
+
+.class-item {
+    background-color: #e9e4db;
+    margin: 3vh;
+    padding: 10px;
+    border-radius: 3px;
+}

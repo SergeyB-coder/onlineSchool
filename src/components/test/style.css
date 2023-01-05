@@ -1,0 +1,50 @@
+.container-test {
+    margin-top: 10vh;
+    margin-left: 10vw;
+    margin-bottom: 10vh;
+    width: 60vw;
+}
+
+.bg-grey {
+    background-color: darkgrey;
+    margin: 2px;
+}
+
+
+
+.new-question-container {
+    width: 50vw;
+}
+
+.btn-ok {
+    color: aliceblue;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #0081C9;
+    width: 5vw;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.btn-add-answer {
+    text-align: center;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
+.btn-add-answer:hover {
+    background-color: #454546;
+}
+
+.btn-add-question {
+    background-color: #004b92;
+    color: white;
+    /* width: 10vw; */
+    text-align: center;
+    border-radius: 3px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+}
